@@ -7,7 +7,7 @@ This is a solution to the GitHub user search app challenge on Frontend Mentor wi
 ## Links
 - My Linkedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
 - My email ahmetndiaye404@gmail.com
-- Live Project [ Github Dev Finder Web App](https://mouhametnd-movies-app.netlify.app)
+- Live Project [ Github Dev Finder Web App](https://mouhametnd-devfinder-app.netlify.app/)
 
 ## Challenge  
 ##  Users should be able to:
